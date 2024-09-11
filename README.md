@@ -68,10 +68,15 @@ A good chunck of Harvestic’s user base will belong to rural areas, which creat
 
 # Deployment
 Link to the website : https://harvestic.pythonanywhere.com/
+
 For best experience, visit the website using a laptop, pc, tablet or ipad
+
 If you dont want to create an account and just want to test the website
+
 Test Credentials
+
 email : test@gmail.com
+
 password : 12345678
 
 # THANKYOU!!
